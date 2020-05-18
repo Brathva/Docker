@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------
+File names of all text files at location /home/data and word count of each file:
+ 81 dksala.txt
+ 858 newttsx.txt
+ 931 total
+===========================================
+Number of words summed in each file: 931
+===========================================
+File with highest word count:  858 newttsx.txt
+===========================================
+IP Address of the machine: 192.168.200.161
+===========================================
+User of machine: Barathadhithya
+===========================================
+Full name: Barathadhithya
+===========================================
